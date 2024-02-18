@@ -7,7 +7,7 @@ The steps are follow:
 
 1. Install Selenium WebDriver 
 ```
-pip install selenium 
+pip install selenium beautifulsoup4
 ```
 
 2. Download and set up a WebDriver for your preferred web browser. For example, if you want to use Chrome, download ChromeDriver from the official website (https://sites.google.com/chromium.org/driver/), unzip the executable, and install it in your project folder or any directory you prefer.
