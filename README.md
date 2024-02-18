@@ -1,5 +1,5 @@
 # Web Scrapper Project using  Python, BeautifulSoup and Selenium
-This repository contains my experiments to scrap opn data in a certain web page using Python and Selenium. 
+This repository contains my experiments to scrap open data in a certain web page using Python, BeautifulSoup and Selenium. 
 
 It involves Selenium WebDriver and a web browser driver like ChromeDriver. 
 
