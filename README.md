@@ -5,7 +5,7 @@ It involves Selenium WebDriver and a web browser driver like ChromeDriver.
 
 The steps are follow:
 
-1. Install Selenium WebDriver 
+1. Install Selenium  and  beautifulsoup
 ```
 pip install selenium beautifulsoup4
 ```
