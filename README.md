@@ -13,6 +13,6 @@ pip install selenium beautifulsoup4
 2. Download and set up a WebDriver for your preferred web browser. For example, if you want to use Chrome, download ChromeDriver from the official website (https://sites.google.com/chromium.org/driver/), unzip the executable, and install it in your project folder or any directory you prefer.
 for stable version, you can take from https://googlechromelabs.github.io/chrome-for-testing/#stable. Please remember the chromedriver.exe path where you unzip it. FOr example, I set in C:\Users\ep\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe
 
-3. Write your code in Python. Please several sample in the jupyter notebook files inside this repository.
+3. Write your code in Python. Please several sample in the jupyter notebook files inside this repository. In web-scraper-KPU.ipynb, we learn how to obtain open data from KPU 2019.
 
 
